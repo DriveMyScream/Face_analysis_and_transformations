@@ -1,4 +1,4 @@
-# NewsHub Advanced News Intelligence: Optimizing 6 GB Models to 2.5 GB with TensorFlow Lite.
+# Comprehensive Facial Analysis & Transformations: Optimizing 4 GB Models to 2 GB with TensorFlow Lite  .
 ![Facial_Analysis_Application_Architecture_-1](https://github.com/DriveMyScream/Face_analysis_and_transformations/assets/93398864/83bfd9e6-581f-4bd6-9b7e-6c877c61879f)
 This comprehensive project encompasses a wide range of facial analysis and image manipulation tasks. It includes tasks like beauty classification, facial expressions, face shape recognition, and predicting BMI, age, and gender. Additionally, it deals with face feature estimation, accurate human face detection, obstruction detection, and clearance. The project also includes tasks like facial sketch generation, super-resolution enhancement, synthetic human face generation, and face image captioning, showcasing its versatility in image analysis and manipulation.
 
